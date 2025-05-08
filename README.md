@@ -1,4 +1,4 @@
-# memory_capsule
+# Barber Shop Managment System
 
 A new Flutter project.
 
